@@ -1,0 +1,17 @@
+.checked {
+  color: orange;
+}
+.both{
+  display: flex;
+}
+.rounded-circle{
+  height: 37px;
+}
+.subheading{
+  color:rgba(81,55,206,255);
+  font-size: 25px;
+  font-weight: 600;
+}
+.text-muted{
+  width: 550px;
+}

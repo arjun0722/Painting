@@ -1,0 +1,19 @@
+.rounded-pill{
+    background-color: rgba(81,55,206,255);
+   color: white;
+   height: 50px;
+   width: 230px;
+  }
+ .butt{
+    display: flex;
+    
+ }
+ .maincontainer{
+    display: flex;
+ }
+ .second{
+    width: 100px;
+ }
+ .third{
+    width: 100px;
+ }

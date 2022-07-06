@@ -1,0 +1,20 @@
+
+button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  .on {
+    color: rgb(240, 93, 8);
+  }
+.starrating{
+    display: flex;
+}
+.star{
+  font-size: 30px;
+}
+.starcontainer{
+  display: flex;
+  align-items: center;
+}

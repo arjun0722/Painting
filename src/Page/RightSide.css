@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: center;
+
+    row-gap: 12px;
+    column-gap: 12px;
+  }
+  .item1 img {
+  margin-right: -9px;
+  
+    
+  }
+  .item2 {
+   
+   
+  }
+
+  .item4 img{
+margin: -2px;
+  }
+  .fleximages{
+    display: flex;
+  }
